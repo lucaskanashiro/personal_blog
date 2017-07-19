@@ -64,16 +64,16 @@ to check if that package version is affected by this vulnerability (sometimes
 it is not), apply the fix (generally released by upstream, but commonly
 backport the patch is a nightmare), and test the package again to verify if the
 vulnerability is fixed and if you did not add any regression. Some people
-consider it as an unpleasent work, but for me is an opportunity to learn new
+consider it as an unpleasant work, but for me is an opportunity to learn new
 stuff, each package that I have worked on I learned a bunch of things. You will
-deal with different programming languages and paradigmas, different software
+deal with different programming languages and paradigms, different software
 natures and so forth. Below is the list of my contributions related with LTS:
 
 * drupal7 (uploaded to wheezy-security and sent DLA)
 * exim4 (uploaded to wheezy-security and sent DLA)
-* kdepim (claimed to work on ti)
+* kdepim (claimed to work on it)
 * libffi (uploaded to wheezy-security and sent DLA)
 
 These are my contributions to Debian in June. I intend to continue this monthly
-report consistently, I hope this will be usefull for someone, at least for me
+report consistently, I hope this will be useful for someone, at least for me
 :)
