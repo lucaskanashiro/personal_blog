@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Interest things from DebConf17"
+date:   2017-08-23 13:30:14 -0300
+categories: debian debconf
+---
+
+From August 6 to August 12 I attended the
+[DebConf17](https://debconf17.debconf.org/), as always was an awesome
+conference. That was my first time in Canada, it is a nice place. The most
+famous typical food in Montreal is [poutine](https://en.wikipedia.org/wiki/Poutine),
+and I ate it a lot! This is not too much different from a portion of fries here
+in Brazil.
+
+![DebConf17 logo]({{ site.url }}/assets/dc17logo.png)
+
+From a Debian point of view the conference was very fruitful. I think that
+this was the DebConf that I watched more talks, the schedule was amazing.
+The DebConf just started with an incredible talk:
+"[Delivering Software for Memory Driven Computing](https://debconf17.debconf.org/talks/206/)"
+by [Keith Packard](https://en.wikipedia.org/wiki/Keith_Packard). This guy is a
+well known X Window System developer and brought many thoughts about the
+memory driven computing, I am not an expert in this area but it was very nice!
+I want to emphasize the Enrico's talk titled
+"[Consensually doing things together?](https://debconf17.debconf.org/talks/92/)".
+He gracefully introduced us an important theme in the Debian context,
+people must not do things that they do not want to do, if it is important
+other people will show up and take care of it.
+
+I really liked many talks, mostly the ones related to [flatpak](http://flatpak.org/).
+In the future I intend to help on this stuff in Debian, I think it will solve
+many issues related with desktop applications.
+
+During the DebConf I recorded a [Papo Livre](https://papolivre.org/6/) episode
+with Antonio Terceiro and Samuel Henrique. Papo livre is a Brazilian podcast
+that intends to discuss things about free software in portuguese. We talked
+about how we start to contribute with Debian, what we actually do in Debian,
+the DebConf's experiences and how interested people can start their
+contributions. It was so funny! :-)
+
+In short, It was a nice experience and I had great times during this DebConf.
+I am looking forward to the next DebConf in Taiwan, I expect to attend it. Also
+we are preparing the [Brazilian BID](https://wiki.debconf.org/wiki/DebConf18/Bids/Curitiba)
+to run for the DebConf19, I hope see you in Curitiba!
+
+![Brazilian group photo in DebConf17]({{ site.url }}/assets/braziliandc17photo.jpg)
